@@ -33,6 +33,7 @@ Provide instructions and examples on how to use the project. Include code snippe
 
 ## Screenshots
 Include screenshots of the project in action to give a visual representation of its functionality. You can also add videos of running project to YouTube and give a reference to it here. 
+![image](https://github.com/user-attachments/assets/9e560841-ebfc-49a9-a548-251b6f37c3e5)
 
 ## Acknowledgements
 Give credit to those who have contributed to the project or provided inspiration. Include links to any resources or tools used in the project.
