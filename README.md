@@ -42,6 +42,11 @@ cd project-name
 ```
 
 ## Usage
+1) Open the code provided
+2) Run the first cell to implement a number detection model and camera, after this step system will be able to observe the environment and detect the numbers for parking lots. 
+3) Run the second cell to implement the road following model, after this step system will be able to follow the black line in the middle of the platform
+4) Run the next 3 cells to define functions for parking procedure, these functions will be used after detecting parking lot.  With this function our system will slowly but consistently park itself 
+5) Run the sixth cell to start communicating with Bluetooth module and from the smartphone app type the desired parking space number. When the parking process starts there will be a notification in the smartphone application indicates that. The following code will run automatically and use the initialized models in the previous steps to follow the road and execute parking. After parking is done smartphone app will change the notification from parking to parking is done.
 
 ## Screenshots 
 Our parking test video can be found [here](https://youtu.be/4IavMZAg-rg).
