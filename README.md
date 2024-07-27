@@ -48,7 +48,6 @@ Our parking test video can be found [here](https://youtu.be/4IavMZAg-rg).
 
 ![image](https://github.com/user-attachments/assets/9e560841-ebfc-49a9-a548-251b6f37c3e5)
 
-Our system test video is [here](https://youtu.be/4IavMZAg-rg)
 
 ## Acknowledgements
 [jetbot official repository](https://github.com/NVIDIA-AI-IOT/jetbot)\
