@@ -4,7 +4,7 @@
 # Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [System Explanation](#systemexplanation)
+- [System Explanation](#system-explanation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
@@ -27,7 +27,7 @@ As an operating system we are using Linux ubuntu (default Jetson nano operating 
 We used only MIT app converter for creating user-interface for our project application. In the application people can select the parking lot they want to use and then they can start the process. Application will give information about if it can park or not and if it violated any rules (crossing parking line).
 
 
-## System explanation: 
+## System Explanation: 
 Our system uses Resnet18 for road following. We trained the model with 350 images. After training Jetbot could follow the line in the middle of the platform. 
 After following the road our model looks around to see parking lots. At this point it uses Alexnet for number detection. It calculates a percentage for each number. If the percentage for the parking lot that has been chosen higher than %80 percent, it starts parking process. 
 For parking we are using Alexnet we are creating a model for each parking lot. In each model system decides if it should go right, left, straight or it should stop.  We trained all the models with 2400 images. After training, model could park itself without crossing parking lines. 
