@@ -52,5 +52,8 @@ Include screenshots of the project in action to give a visual representation of 
 ## Acknowledgements
 Give credit to those who have contributed to the project or provided inspiration. Include links to any resources or tools used in the project.
 
-[Contributor 1](https://github.com/user1)
-[Resource or Tool](https://www.nvidia.com)
+[jetbot official repository](https://github.com/NVIDIA-AI-IOT/jetbot)\
+[jetson hacks](https://jetsonhacks.com/)\
+[nvidia developer forum](https://forums.developer.nvidia.com/)\
+and jetbot image default notebooks
+
