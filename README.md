@@ -34,7 +34,6 @@ For parking we are using Alexnet we are creating a model for each parking lot. I
 
 
 ## Installation
-Describe the steps required to install and set up the project. Include any prerequisites, dependencies, and commands needed to get the project running.
 
 ```bash
 # Example commands
@@ -43,17 +42,15 @@ cd project-name
 ```
 
 ## Usage
-Provide instructions and examples on how to use the project. Include code snippets or screenshots where applicable.
 
-## Screenshots
-Include screenshots of the project in action to give a visual representation of its functionality. You can also add videos of running project to YouTube and give a reference to it here. 
+## Screenshots 
+Our parking test video can be found [here](https://youtu.be/4IavMZAg-rg).
+
 ![image](https://github.com/user-attachments/assets/9e560841-ebfc-49a9-a548-251b6f37c3e5)
 
 Our system test video is [here](https://youtu.be/4IavMZAg-rg)
 
 ## Acknowledgements
-Give credit to those who have contributed to the project or provided inspiration. Include links to any resources or tools used in the project.
-
 [jetbot official repository](https://github.com/NVIDIA-AI-IOT/jetbot)\
 [jetson hacks](https://jetsonhacks.com/)\
 [nvidia developer forum](https://forums.developer.nvidia.com/)\
