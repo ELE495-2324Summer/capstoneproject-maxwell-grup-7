@@ -56,7 +56,8 @@ Our parking test video can be found [here](https://youtu.be/4IavMZAg-rg).
 ![image](https://github.com/user-attachments/assets/9e560841-ebfc-49a9-a548-251b6f37c3e5)
 
 Interface of our App is given below.
-![image](https://github.com/user-attachments/assets/c7039425-3b6a-4578-96fe-9af280ff1cde)
+
+<img src="https://github.com/user-attachments/assets/c7039425-3b6a-4578-96fe-9af280ff1cde" width="100" height="100">
 
 
 ## Acknowledgements
