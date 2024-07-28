@@ -31,6 +31,8 @@ We used only MIT app converter for creating user-interface for our project appli
 Our system uses Resnet18 for road following. We trained the model with 350 images. After training Jetbot could follow the line in the middle of the platform. 
 After following the road our model looks around to see parking lots. At this point it uses Alexnet for number detection. It calculates a percentage for each number. If the percentage for the parking lot that has been chosen higher than %80 percent, it starts parking process. 
 For parking we are using Alexnet we are creating a model for each parking lot. In each model system decides if it should go right, left, straight or it should stop.  We trained all the models with 2400 images. After training, model could park itself without crossing parking lines. 
+![image](https://github.com/user-attachments/assets/b417ce46-1fe7-45b0-ab57-c65d62a5854d)
+
 
 
 ## Installation
